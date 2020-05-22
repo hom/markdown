@@ -11,6 +11,7 @@ Awesome markdown usage:heartbeat:
 - [表格](#表格)
 - [链接](#链接)
 - [图片](#图片)
+- [GitHub](#GitHub)
 
 ## 标题
 
@@ -356,4 +357,13 @@ function consoleIt(param) {
 效果
 
 ![百度一下，你就知道](https://www.baidu.com/img/bd_logo1.png "百度一下，你就知道")
+
+## GitHub
+
+### diff
+
+```diff
++++ new commit line change
+--- old line
+```
 
