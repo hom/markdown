@@ -367,3 +367,18 @@ function consoleIt(param) {
 --- old line
 ```
 
+## 使用`Css`样式
+
+### 折叠
+使用`details`和`summary`来实现折叠，点击[此处](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)查看具体文档
+<details>
+    <summary>Details</summary>
+    
+    ```js
+    function hello() {
+      console.log('this is in details block')
+    }
+    ```
+</details>
+
+
